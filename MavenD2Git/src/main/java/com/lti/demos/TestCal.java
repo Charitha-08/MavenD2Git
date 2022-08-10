@@ -7,6 +7,7 @@ public class TestCal {
 		
 		Calculator c=new Calculator();
 		System.out.println(c.sayHello());
+		System.out.println("hello world");
 		
 
 	}
