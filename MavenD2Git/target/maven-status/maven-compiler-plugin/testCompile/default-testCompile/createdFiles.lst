@@ -1,0 +1,6 @@
+com\lti\demoss\ExceptionsTest.class
+com\lti\demoss\CalculatorTests.class
+com\lti\demoss\AssumptionTests.class
+com\lti\demoss\PrametersTest.class
+com\lti\suiteEx\SuiteEx.class
+com\lti\demoss\TestBeforeAfter.class
